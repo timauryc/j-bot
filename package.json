@@ -1,0 +1,24 @@
+{
+  "name": "jarvis-bot",
+  "version": "1.0.0",
+  "description": "Minutrade bot capable of awsome stuff, the best friend of the minutrader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jarvis",
+    "slackbot",
+    "bot",
+    "minutrade",
+    "bonuz"
+  ],
+  "author": "Carlos Timaury",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "google-libphonenumber": "^1.0.24",
+    "request": "^2.73.0",
+    "slack": "^7.5.6"
+  }
+}
